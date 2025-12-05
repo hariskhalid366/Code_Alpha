@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "yneGpf4E4Rud",
+    "content": "It is common sense to take a method and try it. If it fails, admit it frankly and try another. But above all, try something.",
+    "author": "Franklin D. Roosevelt",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "franklin-d-roosevelt",
+    "length": 124,
+    "dateAdded": "2020-02-22",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "3BOQbdqBbzOd",
+    "content": "Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.",
+    "author": "Ralph Waldo Emerson",
+    "tags": ["Famous Quotes", "Wisdom comes", "alone ", "through", "suffering"],
+    "authorSlug": "ralph-waldo-emerson",
+    "length": 93,
+    "dateAdded": "2021-03-26",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "5ewQ54oqW1HS",
+    "content": "It is not the possession of truth, but the success which attends the seeking after it, that enriches the seeker and brings happiness to him.",
+    "author": "Max Planck",
+    "tags": ["Success"],
+    "authorSlug": "max-planck",
+    "length": 140,
+    "dateAdded": "2019-12-02",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "gfTHZTAshWP",
+    "content": "Wisdom comes alone through suffering.",
+    "author": "Aeschylus",
+    "tags": ["Wisdom"],
+    "authorSlug": "aeschylus",
+    "length": 37,
+    "dateAdded": "2020-04-15",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "TLfamqFncI8p",
+    "content": "There are no failures. Just experiences and your reactions to them.",
+    "author": "Tom Krause",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "tom-krause",
+    "length": 67,
+    "dateAdded": "2020-01-12",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "a7XBvRnXiE",
+    "content": "Nothing but heaven itself is better than a friend who is really a friend.",
+    "author": "Plautus",
+    "tags": ["Friendship"],
+    "authorSlug": "plautus",
+    "length": 73,
+    "dateAdded": "2020-04-15",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "999oXJVcS_I_",
+    "content": "Begin, be bold, and venture to be wise.",
+    "author": "Horace",
+    "tags": ["Wisdom"],
+    "authorSlug": "horace",
+    "length": 39,
+    "dateAdded": "2019-08-08",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "bUM3Kw1GEj8",
+    "content": "You can't stop the waves, but you can learn to surf.",
+    "author": "Jon Kabat-Zinn",
+    "tags": ["Wisdom"],
+    "authorSlug": "jon-kabat-zinn",
+    "length": 52,
+    "dateAdded": "2019-02-11",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "kPkjANuGZ9dV",
+    "content": "Everyone thinks of changing the world, but no one thinks of changing himself.",
+    "author": "Leo Tolstoy",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "leo-tolstoy",
+    "length": 77,
+    "dateAdded": "2021-04-23",
+    "dateModified": "2023-04-14"
+  },
+  {
+    "_id": "jyhL7RAa4Duz",
+    "content": "Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice.",
+    "author": "Wayne Dyer",
+    "tags": ["Famous Quotes"],
+    "authorSlug": "wayne-dyer",
+    "length": 85,
+    "dateAdded": "2020-01-12",
+    "dateModified": "2023-04-14"
+  }
+]
